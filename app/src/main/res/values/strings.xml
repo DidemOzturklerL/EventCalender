@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EventCalender</string>
+    <string name="txt_page_event_name">EVENT NAME</string>
+    <string name="hint_page_event_name">ENTER EVENT NAME</string>
+    <string name="txt_page_event_detail">DETAILS</string>
+    <string name="hint_page_event_date">Enter Event Date</string>
+    <string name="hint_page_event_isGone">You have gone to the evennt?</string>
+</resources>
